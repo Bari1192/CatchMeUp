@@ -1,0 +1,1594 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJlTN2B6bcQUcRuiiIFARivbs",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJtU3udmjcQUcRtn19DfPApxE",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJMVVyBy3dQUcRZD-gIj6gxVo",
+      "types": [
+        "airport",
+        "establishment",
+        "point_of_interest"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJPaPURhDcQUcRiP2DnNwKB7Y",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJxSIc4BLcQUcR0f4WlC4wz3U",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJtVn0DgDdQUcRD-Db-HYC23M",
+      "types": [
+        "beauty_salon",
+        "establishment",
+        "point_of_interest"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJZ_Sw8AzcQUcR3mL8yHIPtBc",
+      "types": [
+        "street_address"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 47.5169316,
+          "lng": 19.1264563
+        },
+        "southwest": {
+          "lat": 47.4898879,
+          "lng": 19.0401368
+        }
+      },
+      "copyrights": "Map data ©2024",
+      "legs": [
+        {
+          "distance": {
+            "text": "5,1 km",
+            "value": 5123
+          },
+          "duration": {
+            "text": "15 perc",
+            "value": 872
+          },
+          "end_address": "Budapest, Wesselényi utca 27, 1077 Magyarország",
+          "end_location": {
+            "lat": 47.4984319,
+            "lng": 19.0653543
+          },
+          "start_address": "Budapest, M2 Kocsiszín, Kerepesi út, 1106 Magyarország",
+          "start_location": {
+            "lat": 47.4989992,
+            "lng": 19.1258152
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "10 m",
+                "value": 10
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 3
+              },
+              "end_location": {
+                "lat": 47.4990774,
+                "lng": 19.1258855
+              },
+              "html_instructions": "Haladjon \u003Cb\u003Eészakkelet\u003C/b\u003E felé",
+              "polyline": {
+                "points": "wc|`HkovsBOM"
+              },
+              "start_location": {
+                "lat": 47.4989992,
+                "lng": 19.1258152
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "6 m",
+                "value": 6
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 5
+              },
+              "end_location": {
+                "lat": 47.4990813,
+                "lng": 19.1259611
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ejobbra\u003C/b\u003E",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "gd|`HyovsB?M"
+              },
+              "start_location": {
+                "lat": 47.4990774,
+                "lng": 19.1258855
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,1 km",
+                "value": 137
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 41
+              },
+              "end_location": {
+                "lat": 47.5002464,
+                "lng": 19.1264563
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ebalra\u003C/b\u003E",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "gd|`HgpvsBGDE?YKWMi@Y{@[cAY"
+              },
+              "start_location": {
+                "lat": 47.4990813,
+                "lng": 19.1259611
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,6 km",
+                "value": 571
+              },
+              "duration": {
+                "text": "2 perc",
+                "value": 109
+              },
+              "end_location": {
+                "lat": 47.5006449,
+                "lng": 19.1193134
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ebalra\u003C/b\u003E\u003Cdiv style=\"font-size:0.9em\"\u003EKorlátozott használatú út\u003C/div\u003E",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "qk|`HksvsBC\\_@lFOtBYvDEx@IjAWpDKvAOnBKj@G`@A\\B|@Dl@Dr@DRHRBBBBDBXJFBDD@B@@"
+              },
+              "start_location": {
+                "lat": 47.5002464,
+                "lng": 19.1264563
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,2 km",
+                "value": 162
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 28
+              },
+              "end_location": {
+                "lat": 47.5002004,
+                "lng": 19.1174739
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ejobbra\u003C/b\u003E\u003Cdiv style=\"font-size:0.9em\"\u003EKorlátozott használatú út\u003C/div\u003E",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "_n|`HufusB@B@B?F?FATAPBV?RBRHpBBn@@RDJDJHHBB\\H@@@@@@@@?@"
+              },
+              "start_location": {
+                "lat": 47.5006449,
+                "lng": 19.1193134
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,1 km",
+                "value": 147
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 38
+              },
+              "end_location": {
+                "lat": 47.5001953,
+                "lng": 19.1156354
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ejobbra\u003C/b\u003E \u003Cb\u003EAlbertirsai út\u003C/b\u003E irányába\u003Cdiv style=\"font-size:0.9em\"\u003EKorlátozott használatú út\u003C/div\u003E",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "gk|`He{tsB?@?B?DGXI`@I\\CVA@AF?FA?AT?X@ZBZFb@DRH\\H^"
+              },
+              "start_location": {
+                "lat": 47.5002004,
+                "lng": 19.1174739
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "16 m",
+                "value": 16
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 5
+              },
+              "end_location": {
+                "lat": 47.5003272,
+                "lng": 19.1155483
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ejobbra\u003C/b\u003E, a következő útra: \u003Cb\u003EAlbertirsai út\u003C/b\u003E",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "gk|`HwotsBYP"
+              },
+              "start_location": {
+                "lat": 47.5001953,
+                "lng": 19.1156354
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "2,7 km",
+                "value": 2705
+              },
+              "duration": {
+                "text": "6 perc",
+                "value": 347
+              },
+              "end_location": {
+                "lat": 47.5000196,
+                "lng": 19.0806824
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ebalra\u003C/b\u003E, a következő útra: \u003Cb\u003EKerepesi út\u003C/b\u003E",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "al|`HeotsBUFMBy@LODWN?d@AtABt@Fz@D`AFn@Fb@LjA\\nDLpBTpEFhA?FHfBNhCB\\Bh@@X@L@P@T@VHrAD|@RtDBp@\\xFDz@@VJ|C?@Bn@B`CBlB?fA?`K?tAAxA?tAAjA?jBAhB?vA@~@?D?J@d@@|@?n@?fA?B?Z?zE?jE?f@?hA?d@?fA?dD?N?n@?X?H?n@?\\?f@@b@?dA?`@?b@?Z@f@?N?vA?X?R@jA@dB?P@nC?J?`A?jA?d@?^?b@?h@?pA?|A?D?zB?PAxA?R?NAP?J?R?NANAN?FAFAHCHCFAFGHELEJITILEJENA@CVCNAN?F?D?B?B@BBP"
+              },
+              "start_location": {
+                "lat": 47.5003272,
+                "lng": 19.1155483
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,2 km",
+                "value": 151
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 27
+              },
+              "end_location": {
+                "lat": 47.4993819,
+                "lng": 19.0789144
+              },
+              "html_instructions": "Csatlakozzon rá erre: \u003Cb\u003EBaross tér\u003C/b\u003E",
+              "maneuver": "merge",
+              "polyline": {
+                "points": "cj|`HgumsB@F@DBHJ`@N`@`@xAH`@FTPfATj@"
+              },
+              "start_location": {
+                "lat": 47.5000196,
+                "lng": 19.0806824
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,7 km",
+                "value": 737
+              },
+              "duration": {
+                "text": "2 perc",
+                "value": 139
+              },
+              "end_location": {
+                "lat": 47.4969758,
+                "lng": 19.0697935
+              },
+              "html_instructions": "Folytassa az utat erre: \u003Cb\u003ERákóczi út\u003C/b\u003E",
+              "polyline": {
+                "points": "cf|`HejmsBJl@Lv@D^TxABNDVJp@Jl@DPLh@Jl@FRf@|CJr@BTH`@Jl@b@jCRrAF\\Jt@l@nDJb@XxAF^@??@Ll@?H?D@HBPVhA@HH^BRBH@HThA@DDTF`@"
+              },
+              "start_location": {
+                "lat": 47.4993819,
+                "lng": 19.0789144
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,3 km",
+                "value": 343
+              },
+              "duration": {
+                "text": "2 perc",
+                "value": 91
+              },
+              "end_location": {
+                "lat": 47.4992591,
+                "lng": 19.0667192
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ejobbra\u003C/b\u003E, a következő útra: \u003Cb\u003EAkácfa u.\u003C/b\u003E",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "cw{`HeqksBYb@QXoBxCy@nAS\\eBbCaAtAc@l@KNEF"
+              },
+              "start_location": {
+                "lat": 47.4969758,
+                "lng": 19.0697935
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,1 km",
+                "value": 138
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 39
+              },
+              "end_location": {
+                "lat": 47.4984319,
+                "lng": 19.0653543
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ebalra\u003C/b\u003E a(z) 2. keresztutcánál erre rátérve: \u003Cb\u003EWesselényi utca\u003C/b\u003E\u003Cdiv style=\"font-size:0.9em\"\u003EA cél balra lesz\u003C/div\u003E",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "ke|`H_~jsB|AjCZf@\\~@L\\"
+              },
+              "start_location": {
+                "lat": 47.4992591,
+                "lng": 19.0667192
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        },
+        {
+          "distance": {
+            "text": "3,2 km",
+            "value": 3177
+          },
+          "duration": {
+            "text": "8 perc",
+            "value": 501
+          },
+          "end_address": "Budapest, Heliport Miercurea Ciuc, Unnamed Road, 4154 Magyarország",
+          "end_location": {
+            "lat": 47.4980582,
+            "lng": 19.040521
+          },
+          "start_address": "Budapest, Wesselényi utca 27, 1077 Magyarország",
+          "start_location": {
+            "lat": 47.4984319,
+            "lng": 19.0653543
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "78 m",
+                "value": 78
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 18
+              },
+              "end_location": {
+                "lat": 47.4980315,
+                "lng": 19.0645027
+              },
+              "html_instructions": "Haladjon tovább \u003Cb\u003Edélnyugat\u003C/b\u003E felé itt: \u003Cb\u003EWesselényi utca\u003C/b\u003E, \u003Cb\u003ENyár u.\u003C/b\u003E irányába",
+              "polyline": {
+                "points": "e`|`HmujsBVp@v@vB"
+              },
+              "start_location": {
+                "lat": 47.4984319,
+                "lng": 19.0653543
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,3 km",
+                "value": 265
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 82
+              },
+              "end_location": {
+                "lat": 47.4960026,
+                "lng": 19.0663408
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ebalra\u003C/b\u003E a(z) 2. keresztutcánál erre rátérve: \u003Cb\u003ENagy Diófa u.\u003C/b\u003E",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "u}{`HcpjsBvBqB@Av@s@hC{Bj@c@XWRO"
+              },
+              "start_location": {
+                "lat": 47.4980315,
+                "lng": 19.0645027
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,5 km",
+                "value": 505
+              },
+              "duration": {
+                "text": "2 perc",
+                "value": 112
+              },
+              "end_location": {
+                "lat": 47.4943981,
+                "lng": 19.0600549
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ejobbra\u003C/b\u003E, a következő útra: \u003Cb\u003ERákóczi út\u003C/b\u003E",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "_q{`Hs{jsBJf@HTh@tCf@zCDT@@BR`@dCBTJf@Lp@DZN|@j@xDRnAJl@BN@@Fh@Ht@F^Hr@"
+              },
+              "start_location": {
+                "lat": 47.4960026,
+                "lng": 19.0663408
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,6 km",
+                "value": 551
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 66
+              },
+              "end_location": {
+                "lat": 47.4924444,
+                "lng": 19.0533294
+              },
+              "html_instructions": "Folytassa az utat erre: \u003Cb\u003EKossuth Lajos u.\u003C/b\u003E",
+              "polyline": {
+                "points": "_g{`HitisBJl@Hj@BHBNDPLt@DVHXd@vC@JTxAHb@F^F^Fd@H^D\\DTLt@PfAJp@HZ@BHXLf@j@vBj@rBPp@Jd@H^"
+              },
+              "start_location": {
+                "lat": 47.4943981,
+                "lng": 19.0600549
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,2 km",
+                "value": 161
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 13
+              },
+              "end_location": {
+                "lat": 47.4917512,
+                "lng": 19.0514593
+              },
+              "html_instructions": "Folytassa az utat erre: \u003Cb\u003ESzabad sajtó út\u003C/b\u003E",
+              "polyline": {
+                "points": "wzz`HijhsBN^N\\HTRj@ZfAFZFZBPBT@J@FFTJb@"
+              },
+              "start_location": {
+                "lat": 47.4924444,
+                "lng": 19.0533294
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,4 km",
+                "value": 381
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 29
+              },
+              "end_location": {
+                "lat": 47.4901571,
+                "lng": 19.0469674
+              },
+              "html_instructions": "Folytassa az utat erre: \u003Cb\u003EErzsébet híd\u003C/b\u003E",
+              "polyline": {
+                "points": "mvz`Hs~gsBjClKHXbB|Gj@xBJ^J`@"
+              },
+              "start_location": {
+                "lat": 47.4917512,
+                "lng": 19.0514593
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,2 km",
+                "value": 190
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 18
+              },
+              "end_location": {
+                "lat": 47.4908676,
+                "lng": 19.0450115
+              },
+              "html_instructions": "Folytassa az utat erre: \u003Cb\u003EDöbrentei tér\u003C/b\u003E",
+              "polyline": {
+                "points": "olz`HqbgsBTp@@N@N?L?F?D?P?HAFETCHEHGLKPi@v@KPMP]f@SXKL"
+              },
+              "start_location": {
+                "lat": 47.4901571,
+                "lng": 19.0469674
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,1 km",
+                "value": 143
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 15
+              },
+              "end_location": {
+                "lat": 47.4918182,
+                "lng": 19.0437341
+              },
+              "html_instructions": "Haladjon tovább erre: \u003Cb\u003EAttila út\u003C/b\u003E",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "}pz`HivfsBMROTGHEFA@EFEDABA@EFA@KRMRy@jAc@n@"
+              },
+              "start_location": {
+                "lat": 47.4908676,
+                "lng": 19.0450115
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "66 m",
+                "value": 66
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 15
+              },
+              "end_location": {
+                "lat": 47.4923354,
+                "lng": 19.0433455
+              },
+              "html_instructions": "Tartson enyhén \u003Cb\u003Ejobbra\u003C/b\u003E ezen: \u003Cb\u003EAttila út\u003C/b\u003E",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "{vz`HinfsBIBE@A@C@C@ABEBCDEFW^C?_@H"
+              },
+              "start_location": {
+                "lat": 47.4918182,
+                "lng": 19.0437341
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,1 km",
+                "value": 104
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 19
+              },
+              "end_location": {
+                "lat": 47.4932661,
+                "lng": 19.0432545
+              },
+              "html_instructions": "Folytassa az utat erre: \u003Cb\u003EApród u.\u003C/b\u003E",
+              "polyline": {
+                "points": "czz`H}kfsBe@JQBK@M?G?WCA?Y?G?c@D"
+              },
+              "start_location": {
+                "lat": 47.4923354,
+                "lng": 19.0433455
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,3 km",
+                "value": 338
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 43
+              },
+              "end_location": {
+                "lat": 47.4961463,
+                "lng": 19.042071
+              },
+              "html_instructions": "Folytassa az utat erre: \u003Cb\u003EYbl Miklós tér\u003C/b\u003E",
+              "polyline": {
+                "points": "}_{`HikfsBQCI?KCYCWAC?S?G@G@C?MDWHw@\\YJqAj@c@Py@\\IDGBUJWLYP_@TWR"
+              },
+              "start_location": {
+                "lat": 47.4932661,
+                "lng": 19.0432545
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,3 km",
+                "value": 256
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 43
+              },
+              "end_location": {
+                "lat": 47.4981855,
+                "lng": 19.0406758
+              },
+              "html_instructions": "Folytassa az utat erre: \u003Cb\u003ELánchíd u.\u003C/b\u003E",
+              "polyline": {
+                "points": "}q{`H}cfsBIHMLs@l@i@h@[VSPYTg@`@IFYRGFC@_@L_@HYJGBMMOB"
+              },
+              "start_location": {
+                "lat": 47.4961463,
+                "lng": 19.042071
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,1 km",
+                "value": 139
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 28
+              },
+              "end_location": {
+                "lat": 47.4980582,
+                "lng": 19.040521
+              },
+              "html_instructions": "A körforgalmat a(z) \u003Cb\u003E3.\u003C/b\u003E kijáraton hagyja el ezen maradva: \u003Cb\u003ELánchíd u.\u003C/b\u003E\u003Cdiv style=\"font-size:0.9em\"\u003EA cél jobbra lesz\u003C/div\u003E",
+              "maneuver": "roundabout-right",
+              "polyline": {
+                "points": "u~{`Hg{esBAACCCACACACAC?CAC@C?C?C@C@CBC@CBABABABABABAD?BAD?B?D@D?D@D?D@B@BBD@DBBDBBBB@B@D@@?@?@?@?@?@?@A@A@??A@??A@ABCBA@CBC@E@C@E?C@E?ENS"
+              },
+              "start_location": {
+                "lat": 47.4981855,
+                "lng": 19.0406758
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        },
+        {
+          "distance": {
+            "text": "3,8 km",
+            "value": 3794
+          },
+          "duration": {
+            "text": "8 perc",
+            "value": 509
+          },
+          "end_address": "Budapest, Kossuth Lajos tér 1, 1055 Magyarország",
+          "end_location": {
+            "lat": 47.5075016,
+            "lng": 19.0449811
+          },
+          "start_address": "Budapest, Heliport Miercurea Ciuc, Unnamed Road, 4154 Magyarország",
+          "start_location": {
+            "lat": 47.4980582,
+            "lng": 19.040521
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0,2 km",
+                "value": 247
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 38
+              },
+              "end_location": {
+                "lat": 47.4961463,
+                "lng": 19.042071
+              },
+              "html_instructions": "Haladjon \u003Cb\u003Edélkelet\u003C/b\u003E felé itt: \u003Cb\u003ELánchíd u.\u003C/b\u003E",
+              "polyline": {
+                "points": "{}{`HgzesBBUFCXK^I^MBAFGXSHGf@a@XURQZWh@i@r@m@LMHI"
+              },
+              "start_location": {
+                "lat": 47.4980582,
+                "lng": 19.040521
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,3 km",
+                "value": 327
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 42
+              },
+              "end_location": {
+                "lat": 47.4933611,
+                "lng": 19.0432664
+              },
+              "html_instructions": "Folytassa az utat erre: \u003Cb\u003EYbl Miklós tér\u003C/b\u003E",
+              "polyline": {
+                "points": "}q{`H}cfsBVS^UXQVMTKFCHEx@]b@QpAk@XKv@]VILEB?FAFAR?B?V@XBJBH?"
+              },
+              "start_location": {
+                "lat": 47.4961463,
+                "lng": 19.042071
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,1 km",
+                "value": 123
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 27
+              },
+              "end_location": {
+                "lat": 47.4923309,
+                "lng": 19.0427859
+              },
+              "html_instructions": "Folytassa az utat erre: \u003Cb\u003EApród u.\u003C/b\u003E",
+              "polyline": {
+                "points": "o`{`HmkfsBPBVFR@XHH?B@L?B@JBB@JFJFTPJNJJ"
+              },
+              "start_location": {
+                "lat": 47.4933611,
+                "lng": 19.0432664
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "72 m",
+                "value": 72
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 22
+              },
+              "end_location": {
+                "lat": 47.4917971,
+                "lng": 19.042489
+              },
+              "html_instructions": "Folytassa az utat erre: \u003Cb\u003ESzarvas tér\u003C/b\u003E",
+              "polyline": {
+                "points": "azz`HmhfsB`@j@HJDHHLF?J?BATQ"
+              },
+              "start_location": {
+                "lat": 47.4923309,
+                "lng": 19.0427859
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,3 km",
+                "value": 315
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 48
+              },
+              "end_location": {
+                "lat": 47.4900469,
+                "lng": 19.0457518
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ebalra\u003C/b\u003E, a következő útra: \u003Cb\u003EKrisztina krt.\u003C/b\u003E",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "wvz`HqffsBV{@V{@`@oA^eAZw@FKVi@N[Xi@HQP_@R_@NWJKFM`@m@NW"
+              },
+              "start_location": {
+                "lat": 47.4917971,
+                "lng": 19.042489
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "56 m",
+                "value": 56
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 6
+              },
+              "end_location": {
+                "lat": 47.4898879,
+                "lng": 19.0464473
+              },
+              "html_instructions": "Folytassa az utat erre: \u003Cb\u003E» Erzsébet híd\u003C/b\u003E",
+              "polyline": {
+                "points": "ykz`H}zfsBJ]FO?CDO@K@K@K?e@"
+              },
+              "start_location": {
+                "lat": 47.4900469,
+                "lng": 19.0457518
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,4 km",
+                "value": 417
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 34
+              },
+              "end_location": {
+                "lat": 47.4916388,
+                "lng": 19.0513599
+              },
+              "html_instructions": "A(z) \u003Cb\u003E» Erzsébet híd\u003C/b\u003E enyhén \u003Cb\u003Ebalra\u003C/b\u003E fordul, és innentől a neve \u003Cb\u003EErzsébet híd\u003C/b\u003E",
+              "polyline": {
+                "points": "yjz`Hi_gsBEUCKEMU{@Uu@M_@GWGWEMm@aCSy@[mA?ASu@Mi@qAiFKa@GYWcA"
+              },
+              "start_location": {
+                "lat": 47.4898879,
+                "lng": 19.0464473
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,1 km",
+                "value": 132
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 15
+              },
+              "end_location": {
+                "lat": 47.4921268,
+                "lng": 19.0529438
+              },
+              "html_instructions": "Folytassa az utat erre: \u003Cb\u003ESzabad sajtó út\u003C/b\u003E",
+              "polyline": {
+                "points": "wuz`H_~gsBGWI[EWCUCWEWAIAIGUEWCKI_@IWGQACCGCE"
+              },
+              "start_location": {
+                "lat": 47.4916388,
+                "lng": 19.0513599
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,2 km",
+                "value": 174
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 36
+              },
+              "end_location": {
+                "lat": 47.4914737,
+                "lng": 19.0519012
+              },
+              "html_instructions": "Forduljon enyhén \u003Cb\u003Ejobbra\u003C/b\u003E, a következő útra: \u003Cb\u003EMárcius 15. tér\u003C/b\u003E",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "yxz`H{ghsB?K?IESACAE?C@G?CBG@C@ABA@AB?BAF?B@@?@@B@BDDN@DJ^FTTjAH`@`@`B"
+              },
+              "start_location": {
+                "lat": 47.4921268,
+                "lng": 19.0529438
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,1 km",
+                "value": 127
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 31
+              },
+              "end_location": {
+                "lat": 47.4921136,
+                "lng": 19.0507754
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ejobbra\u003C/b\u003E, a következő útra: \u003Cb\u003EBelgrád rkp.\u003C/b\u003E",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "utz`HkahsB?PBJBJ@H@JALAHCFYb@C@]^KF{@p@"
+              },
+              "start_location": {
+                "lat": 47.4914737,
+                "lng": 19.0519012
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,9 km",
+                "value": 872
+              },
+              "duration": {
+                "text": "2 perc",
+                "value": 108
+              },
+              "end_location": {
+                "lat": 47.499337,
+                "lng": 19.0467617
+              },
+              "html_instructions": "Folytassa az utat erre: \u003Cb\u003EJane Haining rkp.\u003C/b\u003E",
+              "polyline": {
+                "points": "uxz`HkzgsBKNENuBxAMFMHIFINe@\\IDWPu@f@KHa@VUNc@VSNa@Va@Ta@To@^KH[NGByBhAcAb@oAl@UJs@Xs@\\a@NgAl@a@TC@QFSD{@Jc@FO@E?A?I?OCEASAOCo@G"
+              },
+              "start_location": {
+                "lat": 47.4921136,
+                "lng": 19.0507754
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,9 km",
+                "value": 932
+              },
+              "duration": {
+                "text": "2 perc",
+                "value": 102
+              },
+              "end_location": {
+                "lat": 47.5075016,
+                "lng": 19.0449811
+              },
+              "html_instructions": "Folytassa az utat erre: \u003Cb\u003EId. Antall József rkp.\u003C/b\u003E",
+              "polyline": {
+                "points": "{e|`HgagsBMAI?MBIBC@C@MHEDOLCBORCBKHOLCBEBKDIFIDMFu@b@MBGBE@G@UFg@JOBoATgARsCj@wAZaARyDh@s@FW@e@DK@wAFY@u@A[Ac@AQ?IAu@GcAK{AOOAGA"
+              },
+              "start_location": {
+                "lat": 47.499337,
+                "lng": 19.0467617
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        },
+        {
+          "distance": {
+            "text": "2,1 km",
+            "value": 2134
+          },
+          "duration": {
+            "text": "6 perc",
+            "value": 353
+          },
+          "end_address": "Jászberény, Báthory utca 29, 5100 Magyarország",
+          "end_location": {
+            "lat": 47.5063702,
+            "lng": 19.0542772
+          },
+          "start_address": "Budapest, Kossuth Lajos tér 1, 1055 Magyarország",
+          "start_location": {
+            "lat": 47.5075016,
+            "lng": 19.0449811
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0,5 km",
+                "value": 539
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 53
+              },
+              "end_location": {
+                "lat": 47.5122817,
+                "lng": 19.0461019
+              },
+              "html_instructions": "Haladjon \u003Cb\u003Eészak\u003C/b\u003E felé itt: \u003Cb\u003EId. Antall József rkp.\u003C/b\u003E",
+              "polyline": {
+                "points": "{x}`HcvfsBEA]GIAC?c@Em@Gi@MWGSGSGMCc@E_@GEAIAMASEA?m@IKAmBWGASCKCg@I}@OGAIAC?C?E@iBWq@KuAS"
+              },
+              "start_location": {
+                "lat": 47.5075016,
+                "lng": 19.0449811
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,1 km",
+                "value": 143
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 21
+              },
+              "end_location": {
+                "lat": 47.5133829,
+                "lng": 19.0467755
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ejobbra\u003C/b\u003E, a következő útra: \u003Cb\u003ECarl Lutz rkp.\u003C/b\u003E",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "wv~`Hc}fsBCKCCEGMGSCc@GUEiAQGAEACCCACCACCEAEAEAGAW"
+              },
+              "start_location": {
+                "lat": 47.5122817,
+                "lng": 19.0461019
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "77 m",
+                "value": 77
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 11
+              },
+              "end_location": {
+                "lat": 47.5127116,
+                "lng": 19.046538
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ejobbra\u003C/b\u003E, a következő útra: \u003Cb\u003EJászai Mari tér\u003C/b\u003E",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "s}~`HkagsBTLHBB@PDnAT"
+              },
+              "start_location": {
+                "lat": 47.5133829,
+                "lng": 19.0467755
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,3 km",
+                "value": 291
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 40
+              },
+              "end_location": {
+                "lat": 47.510127,
+                "lng": 19.0459419
+              },
+              "html_instructions": "Haladjon tovább erre: \u003Cb\u003ESzéchenyi rkp.\u003C/b\u003E",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "my~`H{_gsBpDj@LB|Cb@vC^LB"
+              },
+              "start_location": {
+                "lat": 47.5127116,
+                "lng": 19.046538
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,3 km",
+                "value": 300
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 64
+              },
+              "end_location": {
+                "lat": 47.5095411,
+                "lng": 19.0498288
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ebalra\u003C/b\u003E, a következő útra: \u003Cb\u003EMarkó u.\u003C/b\u003E",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "ii~`Hc|fsBAU@G@UJkA@MFm@@M@G\\aEL{AH{@HeABWHgADa@DU"
+              },
+              "start_location": {
+                "lat": 47.510127,
+                "lng": 19.0459419
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,4 km",
+                "value": 399
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 82
+              },
+              "end_location": {
+                "lat": 47.5060107,
+                "lng": 19.0500533
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ejobbra\u003C/b\u003E, a következő útra: \u003Cb\u003EHonvéd u.\u003C/b\u003E",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "se~`HmtgsBLH^Hl@Lx@Pd@LxFu@pC]xBY"
+              },
+              "start_location": {
+                "lat": 47.5095411,
+                "lng": 19.0498288
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,1 km",
+                "value": 113
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 28
+              },
+              "end_location": {
+                "lat": 47.5061373,
+                "lng": 19.0515398
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ebalra\u003C/b\u003E, a következő útra: \u003Cb\u003EBáthory utca\u003C/b\u003E",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "qo}`HyugsBOeEIcB"
+              },
+              "start_location": {
+                "lat": 47.5060107,
+                "lng": 19.0500533
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "74 m",
+                "value": 74
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 14
+              },
+              "end_location": {
+                "lat": 47.5057992,
+                "lng": 19.0522711
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ejobbra\u003C/b\u003E, a következő útra: \u003Cb\u003EAulich u.\u003C/b\u003E",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "kp}`Hc_hsBRIHIPO@CDIDQBM@I@I?E?G?IAS"
+              },
+              "start_location": {
+                "lat": 47.5061373,
+                "lng": 19.0515398
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "41 m",
+                "value": 41
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 9
+              },
+              "end_location": {
+                "lat": 47.5061636,
+                "lng": 19.0522142
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ebalra\u003C/b\u003E, a következő útra: \u003Cb\u003EHold u.\u003C/b\u003E",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "gn}`HuchsBy@FMB"
+              },
+              "start_location": {
+                "lat": 47.5057992,
+                "lng": 19.0522711
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,2 km",
+                "value": 157
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 31
+              },
+              "end_location": {
+                "lat": 47.5063702,
+                "lng": 19.0542772
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ejobbra\u003C/b\u003E, a következő útra: \u003Cb\u003EBáthory utca\u003C/b\u003E\u003Cdiv style=\"font-size:0.9em\"\u003EA cél jobbra lesz\u003C/div\u003E",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "op}`HichsBYcGOyC"
+              },
+              "start_location": {
+                "lat": 47.5061636,
+                "lng": 19.0522142
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        },
+        {
+          "distance": {
+            "text": "1,7 km",
+            "value": 1665
+          },
+          "duration": {
+            "text": "6 perc",
+            "value": 375
+          },
+          "end_address": "Budapest, Hegedűs Gyula u. 28, 1136 Magyarország",
+          "end_location": {
+            "lat": 47.5162034,
+            "lng": 19.0552519
+          },
+          "start_address": "Jászberény, Báthory utca 29, 5100 Magyarország",
+          "start_location": {
+            "lat": 47.5063702,
+            "lng": 19.0542772
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "56 m",
+                "value": 56
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 11
+              },
+              "end_location": {
+                "lat": 47.5064425,
+                "lng": 19.0550094
+              },
+              "html_instructions": "Haladjon tovább \u003Cb\u003Ekelet\u003C/b\u003E felé itt: \u003Cb\u003EBáthory utca\u003C/b\u003E, \u003Cb\u003EBajcsy-Zsilinszky út\u003C/b\u003E irányába",
+              "polyline": {
+                "points": "yq}`HgphsBIiBCg@"
+              },
+              "start_location": {
+                "lat": 47.5063702,
+                "lng": 19.0542772
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "43 m",
+                "value": 43
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 6
+              },
+              "end_location": {
+                "lat": 47.5060546,
+                "lng": 19.0549984
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ejobbra\u003C/b\u003E, a következő útra: \u003Cb\u003EBajcsy-Zsilinszky út\u003C/b\u003E",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "gr}`HythsBlA@"
+              },
+              "start_location": {
+                "lat": 47.5064425,
+                "lng": 19.0550094
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,2 km",
+                "value": 200
+              },
+              "duration": {
+                "text": "2 perc",
+                "value": 94
+              },
+              "end_location": {
+                "lat": 47.5078569,
+                "lng": 19.0550359
+              },
+              "html_instructions": "\u003Cb\u003EForduljon meg\u003C/b\u003E",
+              "maneuver": "uturn-left",
+              "polyline": {
+                "points": "yo}`HwthsBmAAq@?g@?A?Q?U?S?SAoBC"
+              },
+              "start_location": {
+                "lat": 47.5060546,
+                "lng": 19.0549984
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,3 km",
+                "value": 325
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 67
+              },
+              "end_location": {
+                "lat": 47.5074537,
+                "lng": 19.0507468
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ebalra\u003C/b\u003E, a következő útra: \u003Cb\u003EAlkotmány u.\u003C/b\u003E",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "c{}`H_uhsB@r@?B^dHXrGTfF"
+              },
+              "start_location": {
+                "lat": 47.5078569,
+                "lng": 19.0550359
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,5 km",
+                "value": 480
+              },
+              "duration": {
+                "text": "2 perc",
+                "value": 94
+              },
+              "end_location": {
+                "lat": 47.5116826,
+                "lng": 19.0519459
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ejobbra\u003C/b\u003E, a következő útra: \u003Cb\u003ESzemere u.\u003C/b\u003E",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "qx}`HezgsBaEOkBc@iAYaDy@gDu@y@S_AUGAIE"
+              },
+              "start_location": {
+                "lat": 47.5074537,
+                "lng": 19.0507468
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,6 km",
+                "value": 561
+              },
+              "duration": {
+                "text": "2 perc",
+                "value": 103
+              },
+              "end_location": {
+                "lat": 47.5162034,
+                "lng": 19.0552519
+              },
+              "html_instructions": "Folytassa az utat erre: \u003Cb\u003EHegedűs Gyula u.\u003C/b\u003E\u003Cdiv style=\"font-size:0.9em\"\u003EA cél balra lesz\u003C/div\u003E",
+              "polyline": {
+                "points": "_s~`HuahsBIEGEKI_@WwB{AuCkBiBmA_Am@i@]mAw@iBoAWQUKu@g@kAu@"
+              },
+              "start_location": {
+                "lat": 47.5116826,
+                "lng": 19.0519459
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        },
+        {
+          "distance": {
+            "text": "1,2 km",
+            "value": 1198
+          },
+          "duration": {
+            "text": "4 perc",
+            "value": 250
+          },
+          "end_address": "Budapest, Váci út 1, 1062 Magyarország",
+          "end_location": {
+            "lat": 47.5116104,
+            "lng": 19.0570174
+          },
+          "start_address": "Budapest, Hegedűs Gyula u. 28, 1136 Magyarország",
+          "start_location": {
+            "lat": 47.5162034,
+            "lng": 19.0552519
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "90 m",
+                "value": 90
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 20
+              },
+              "end_location": {
+                "lat": 47.5169316,
+                "lng": 19.0557797
+              },
+              "html_instructions": "Haladjon tovább \u003Cb\u003Eészakkelet\u003C/b\u003E felé itt: \u003Cb\u003EHegedűs Gyula u.\u003C/b\u003E, \u003Cb\u003ECsanády u.\u003C/b\u003E irányába",
+              "polyline": {
+                "points": "go_aHivhsBq@c@_BeA"
+              },
+              "start_location": {
+                "lat": 47.5162034,
+                "lng": 19.0552519
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,3 km",
+                "value": 294
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 65
+              },
+              "end_location": {
+                "lat": 47.5158109,
+                "lng": 19.0593238
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ejobbra\u003C/b\u003E az 1. keresztutcánál erre rátérve: \u003Cb\u003ECsanády u.\u003C/b\u003E",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "ys_aHsyhsBF]bAsEfA}Ed@wBJi@XqA"
+              },
+              "start_location": {
+                "lat": 47.5169316,
+                "lng": 19.0557797
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,6 km",
+                "value": 641
+              },
+              "duration": {
+                "text": "2 perc",
+                "value": 109
+              },
+              "end_location": {
+                "lat": 47.510722,
+                "lng": 19.0557092
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ejobbra\u003C/b\u003E, a következő útra: \u003Cb\u003EVáci út\u003C/b\u003E",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "yl_aHwoisBZa@HBB@FBFDdAn@NNPNVNTPHDTLB@@BDBF@D?D?tDhCPLTPbDzBBJBD@BBB^XTRFDhDbCbAr@JH`@Z"
+              },
+              "start_location": {
+                "lat": 47.5158109,
+                "lng": 19.0593238
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,1 km",
+                "value": 141
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 36
+              },
+              "end_location": {
+                "lat": 47.5116144,
+                "lng": 19.0566346
+              },
+              "html_instructions": "\u003Cb\u003EForduljon meg\u003C/b\u003E",
+              "maneuver": "uturn-left",
+              "polyline": {
+                "points": "_m~`HeyhsBDABC@A?A@A?A@??C?A?A@C?AAC?EKKIE}AcAaAq@KI"
+              },
+              "start_location": {
+                "lat": 47.510722,
+                "lng": 19.0557092
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "32 m",
+                "value": 32
+              },
+              "duration": {
+                "text": "1 perc",
+                "value": 20
+              },
+              "end_location": {
+                "lat": 47.5116104,
+                "lng": 19.0570174
+              },
+              "html_instructions": "Forduljon \u003Cb\u003Ejobbra\u003C/b\u003E, a következő útra: \u003Cb\u003ENyugati tér\u003C/b\u003E\u003Cdiv style=\"font-size:0.9em\"\u003EA cél jobbra lesz\u003C/div\u003E",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "qr~`H}~hsBESACAA?C?CAE?E@E@MBGBA?A"
+              },
+              "start_location": {
+                "lat": 47.5116144,
+                "lng": 19.0566346
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "wc|`HkovsBOM?MMDq@Yi@Y_Cu@c@jGy@rLc@hGOnBKj@I~@HjBJfALVj@VJN@JA\\DpAL`DF^NT`@LFF?L[xAGh@CT@t@J~@Np@H^YPc@JiARWN?d@@jCL|BNrAj@zFj@tKh@hKnA~UJ~CFpDBlSCfJ?`GBtB?zB?hYBnQD`O?dMCpEEn@Kb@u@dBI~@@PJh@ZbAj@zBFTPfATj@Jl@RvAXhBb@hCXvAn@pDNhATnAjArHzAlINn@?NDZf@fC\\bBLv@k@|@iDhFyB`DwBzCxBrDj@|AnAhDxBsB`EoDdA{@ROJf@r@jDn@rDt@vEtBtMb@rDXbB\\nBn@pDVdB`@hCb@hCh@xCnBlH\\vAX~@Xr@n@rBV~AVlAdH~Xn@bC@j@?ZG\\]r@aBbCsAlBeBhCc@n@IBGBOJa@l@{AXY@_@C[?k@DaAKw@?q@PgEfBaBr@q@^w@h@uBnBiA~@sAdAc@Ny@TGBMMOBAAGECAOEK@OHINEP?TBTJRPJH@JCNOHS@INYBUFCx@Ub@O`@[~AqAxBoBVWv@i@nAo@xDaBpAi@d@Of@C`AHZBj@Hb@HP@^N`@XVZz@nAR?XSn@wB`AuCjAiChA{BdA_BNWJ]FSJs@?e@EUIYaAiD_CgJsBoIo@oCOoAScA]mAGM?UIa@FWJEP?DBHTj@fCj@bCB\\DT?XEP]d@i@f@{@p@KNENuBxA[PSVo@b@{BzAoBnA_CtA}C|A}EvBuAl@gAl@e@Ve@LuBTcCUWB_@PYVo@n@_@TWLcAf@k@NoEx@kFfAaARyDh@kAHq@FqBHqACu@A_AIwD_@q@KqAMaAUg@Oq@I}@MoAQmG_AG?oBUgC_@GOSOw@KmB[MMIYAWTLLD`BZ~Dn@tHbALBAUB]LyAh@eGd@uFNiBDULHlAV~A^jKsAxBYOeEIcBRIZYFMH_@Ba@A]gAJw@oPlA@mAAyA?}@?cCE@v@x@xPTfFaEOuD}@aDy@gDu@yBi@QG}@m@wLcIyFwDkAs@}ByA_BeAF]jCqLp@aDXqAZa@LDNHdAn@NNh@^x@f@THD?tDhCf@^bDzBBJDH`Av@zG|EJIBC?WuDgCKIESCEASBSFI?A"
+      },
+      "summary": "Kerepesi út",
+      "warnings": [],
+      "waypoint_order": [3, 0, 4, 1, 2]
+    }
+  ],
+  "status": "OK"
+}
